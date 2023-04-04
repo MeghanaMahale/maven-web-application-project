@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Minutus Computing- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/minutuslogo.jpg.png" rel="icon">
 </head>
 </head>
 <body>
@@ -35,11 +35,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Minutus Computing, 
-		Pune, Maharashtra
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Pune - 411044, 
+		Maharashtra, India,
+		careers@minutuscomputing.com
 		<br>
-		<a href=" careers@minutuscomputing.com">Mail to Minutus Computing</a>
+		<a href="careers@minutuscomputing.com">Mail to Minutus Computing</a>
 	</span>
 </div>
 <hr>
@@ -47,7 +47,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Minutus Computing - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="https://minutuscomputing.com">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="https://minutuscomputing.com">Minutus Computing</a> </small></p>
 
 </body>
 </html>
