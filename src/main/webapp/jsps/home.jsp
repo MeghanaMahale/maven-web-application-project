@@ -13,25 +13,9 @@
 <h1 align="center">We Design, Develop,Implement & Support Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer PLM Platform Deployment, Infrastructure Engineering, Application Development & Modernization, DevOps, Tools & Automation</h1>
-<hr>
-<br>
-	<h1><h3> Server Side IP Address </h3><br>
-
-<% 
-String ip = "";
-InetAddress inetAddress = InetAddress.getLocalHost();
-ip = inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName()); 
-%>
-<br>
-<%out.println("Server IP Address :: "+ip);%>
-		
-</h1>
-	
-<hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/minutuslogo.jpg.png" alt="" width="150">
+		<img src="images/minutuslogo.jpg.png" alt="" width="90">
 	</span>
 	<span style="font-weight: bold;">
                 Minutus Computing, 
@@ -39,11 +23,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Maharashtra, India,
 		careers@minutuscomputing.com
 		<br>
-		<a href="careers@minutuscomputing.com">Mail to Minutus Computing</a>
+		<a href="mailto:careers@minutuscomputing.com">Mail to Minutus Computing</a>
 	</span>
 </div>
 <hr>
-	<p> Service : <a href="services/company/getcompanyDetails">Get Company Details </p>
+	<p> Service : <a href="services/company/getcompanyDetails">GetCompanyDetails </p>
 <hr>
 <hr>
 <p align=center> Minutus Computing - Consultant, Training and Software Development</p>
