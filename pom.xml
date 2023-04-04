@@ -92,19 +92,17 @@
 		</dependency>	
 	</dependencies>
 	<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.211.58.193:8081/repository/TeslaReleases/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.211.58.193:8081/repository/TeslaFESnapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+        <repository>
+            <id>nexus</id>
+            <name>Internal Releases</name>
+            <url>http://devops.platform.minutuscloud.com/nexus/repository/minutus-release/</url>
+        </repository>
+        <snapshotRepository>
+            <id>nexus</id>
+            <name>Internal Snapshot Releases</name>
+            <url>http://devops.platform.minutuscloud.com/nexus/repository/minutus-snapshot/</url>
+        </snapshotRepository>
+    </distributionManagement>
 	
 	<build>
 		<finalName>tesla</finalName>
