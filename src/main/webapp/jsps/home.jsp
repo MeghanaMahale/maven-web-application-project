@@ -8,7 +8,7 @@
 <link href="images/minutuslogo.png" rel="icon">
 </head>
 </head>
-<body background="images/bg.png" width="500" height="300">
+<body background="images/bg.png" width="300" height="200">
 <h1 align="center"> Welcome to Minutus Computing Private Limited. </h1>
 <hr>
 	<br> <h2 align="center"> We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. </h2> <br>
