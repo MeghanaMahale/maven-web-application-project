@@ -8,10 +8,10 @@
 <link href="images/minutuslogo.jpg.png" rel="icon">
 </head>
 </head>
-<body>
+<body background="images/minutuslogo.jpg.png">
 <h1 align="center"> Welcome to Minutus Computing Private Limited. </h1>
 <hr>
-	< br> <h2 align="center"> We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. </h2> <br>
+	<br> <h2 align="center"> We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. </h2> <br>
 	<br> <h2 align="center">   We are raising millionaires in IT automation. </h2> <br>
 	<br> <h2 align="center"> We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2> <br>	
 </h1>
