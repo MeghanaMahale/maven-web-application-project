@@ -5,10 +5,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MINUTUS COMPUTING - Home Page</title>
-<link href="images/minutuslogo.jpg.png" rel="icon">
+<link href="images/minutuslogo.png" rel="icon">
 </head>
 </head>
-<body background="images/minutuslogo.jpg.png">
+<body background="images/bg.png">
 <h1 align="center"> Welcome to Minutus Computing Private Limited. </h1>
 <hr>
 	<br> <h2 align="center"> We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. </h2> <br>
@@ -19,7 +19,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/minutuslogo.jpg.png" alt="" width="200">
+		<img src="images/minutuslogo.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
               <br> Plot No. 468, Sector 28, Nigdi Pradhikaran <br>
@@ -36,7 +36,8 @@
 <br> Trusted Technology Partners <br> 
 <br> End-to-End Infrastructure Management services <br>
 </p>
+<p align=left> <img src="images/minutuslogo.png" alt="" width="200">
 <p align=center><small>Visit our company site <a href=" https://minutuscomputing.com "> https://minutuscomputing.com </a> </small></p>
-<br> <p align=center> © 2020 MINUTUS COMPUTING <br> 
+<br> <p align=center> © 2020 MINUTUS COMPUTING <br> </p>
 </body>
 </html>
