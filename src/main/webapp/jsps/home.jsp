@@ -9,12 +9,12 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Minutus Computing Private Limited.</h1>
+<h1 align="center">Welcome to Minutus Computing Private Limited.</h1>
 <hr>
 <br>
-	<h2 align="center">We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
+	< br> <h2 align="center">We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. <br>
+	       <br>    We are raising millionaires in IT automation. <br>
+	<br> We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
 <br>	
 </h1>
 	
@@ -24,25 +24,21 @@
 		<img src="images/minutuslogo.jpg.png" alt="" width="80">
 	</span>
 	<span style="font-weight: bold;">
-                Plot No. 468, Sector 28,
-                Nigdi Pradhikaran,
-                Pune 411044 <br>
-		+91-98234 26674 <br>
-		sales@minutuscomputing.com
-		<br>
-		<a href="tel:+91-98234 26674m">+91-98234 26674</a>
+               <br> Plot No. 468, Sector 28,
+                Nigdi Pradhikaran <br>
+             <br>   Pune 411044 <br>
+		<br > <a href="tel:+91-98234 26674m">+91-98234 26674</a>
 		 <br> 
-		<a href="mailto:sales@minutuscomputing.com">sales@minutuscomputing.com</a>
+		<br> <a href="mailto:sales@minutuscomputing.com">sales@minutuscomputing.com</a> <br>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/company/getcompanyeDetails">Get Company Details </p>
 <hr>
-<hr>
-<p align=center> MINUTUS COMPUTING - DEVOPS FOR HIGHER AGILITY & RELIABILITY <br> TRUSTED
-TECHNOLOGY PARTNERS <br> END-TO-END
-INFRASTRUCTURE
-MANAGEMENT SERVICES
+<hr> 
+<br> <p align=center> Minutus Computing - DevOps for higher Agility & Reliability <br> TRUSTED
+<br> Technology Partners <br> 
+<br> End-to-End Infrastructure Management services <br>
 </p>
 <p align=center><small>Copyrights 2021 by <a href="https://minutuscomputing.com">https://minutuscomputing.com</a> </small></p>
 
