@@ -9,38 +9,34 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Minutus Computing Private Limited.</h1>
+<h1 align="center"> Welcome to Minutus Computing Private Limited. </h1>
 <hr>
-<br>
-	< br> <h2 align="center">We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. <br>
-	       <br>    We are raising millionaires in IT automation. <br>
-	<br> We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
-<br>	
+	< br> <h2 align="center"> We are Designing, developing, Implementing and supporting quality Software Solutions to millions of clients globally. </h2> <br>
+	<br> <h2 align="center">   We are raising millionaires in IT automation. </h2> <br>
+	<br> <h2 align="center"> We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2> <br>	
 </h1>
 	
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/minutuslogo.jpg.png" alt="" width="80">
+		<img src="images/minutuslogo.jpg.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-               <br> Plot No. 468, Sector 28,
-                Nigdi Pradhikaran <br>
-             <br>   Pune 411044 <br>
-		<br > <a href="tel:+91-98234 26674m">+91-98234 26674</a>
-		 <br> 
-		<br> <a href="mailto:sales@minutuscomputing.com">sales@minutuscomputing.com</a> <br>
+              <br> Plot No. 468, Sector 28, Nigdi Pradhikaran <br>
+              <br> Pune 411044 <br>
+	      <br > <a href="tel:+91-98234 26674m"> +91-98234 26674 </a> <br> 
+	      <br> <a href="mailto:sales@minutuscomputing.com"> sales@minutuscomputing.com </a> <br>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/company/getcompanyeDetails">Get Company Details </p>
 <hr>
 <hr> 
-<br> <p align=center> Minutus Computing - DevOps for higher Agility & Reliability <br> TRUSTED
-<br> Technology Partners <br> 
+<br> <p align=center> Minutus Computing - DevOps for higher Agility & Reliability <br> 
+<br> Trusted Technology Partners <br> 
 <br> End-to-End Infrastructure Management services <br>
 </p>
-<p align=center><small>Copyrights 2021 by <a href="https://minutuscomputing.com">https://minutuscomputing.com</a> </small></p>
-
+<p align=center><small>Visit our company site <a href=" https://minutuscomputing.com "> https://minutuscomputing.com </a> </small></p>
+<br> <p align=center> © 2020 MINUTUS COMPUTING <br> 
 </body>
 </html>
